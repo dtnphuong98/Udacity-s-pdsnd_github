@@ -37,7 +37,7 @@ def get_filters():
         city = input("Input city name: ").lower()
         if (city in valid_cities):
             break
-    # TO DO: get user input for month (all, january, february, ... , june)
+    # TO DO: get user input for month (all, january, february, march,... , june)
     while (True):
         month = input("Input month: ").lower()
         if (month in valid_months):

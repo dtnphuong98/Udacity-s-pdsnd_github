@@ -6,7 +6,7 @@ Include the date you created this project and README file.
 ### Project Title
 Bikeshare
 
-### Description
+### Description detail
 Overall, this project provides an interactive way for users to explore and analyze bikeshare data for different cities. It allows users to customize their analysis by specifying filters such as city, month, and day, and provides insights into various aspects of bikeshare usage
 
 - The people can see the first 5 rows of data and displays them if requested by ask_raw_data function
